@@ -194,7 +194,7 @@
                                     </td>
 
                                     <td style="font-weight: 600;">
-                                        Rp. {{$trx->harga }}
+                                        Rp. {{number_format($trx->harga ?? 0, 0, ',', '.') }}
                                     </td>
 
                                     <td>

@@ -154,7 +154,7 @@
                                                         Rp {{ number_format($trx->discount ?? 0, 0, ',', '.') }}
                                                     </td>
                                                     <td style="font-weight: 600; color: #f35525;">
-                                                        Rp. {{$trx->harga }}
+                                                        Rp. {{number_format($trx->harga ?? 0, 0, ',', '.') }}
                                                     </td>
                                                     <td>
                                                         @if(strtolower($trx->status) == 'sukses' || strtolower($trx->status) == 'lunas')

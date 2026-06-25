@@ -103,7 +103,7 @@
                             <div class="col-lg-12">
                                 <div class="section-heading text-left">
                                     <h6>| Status Member</h6>
-                                    <h2>Paket Aktif Anda</h2>
+                                    <h2>Paket Aktif Kamu</h2>
                                 </div>
                             </div>
                         </div>

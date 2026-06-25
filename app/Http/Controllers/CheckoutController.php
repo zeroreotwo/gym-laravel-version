@@ -41,7 +41,7 @@ class CheckoutController extends Controller
         $transaksi->user_id = Auth::id();
         $transaksi->trainer_id = $trainer->id;
         $transaksi->paket_id = null;
-        $transaksi->harga = $trainer->harga;
+        $transaksi->harga = str_replace('.', '', $trainer->harga);
         $transaksi->discount = 0;
         $transaksi->status = 'pending';
         $transaksi->gambar = $namaFile; // Field baru Anda
@@ -81,7 +81,7 @@ class CheckoutController extends Controller
         $transaksi->user_id = Auth::id();
         $transaksi->paket_id = $paket->id; // Isi paket_id
         $transaksi->trainer_id = null;     // Kosongkan trainer_id karena ini beli paket
-        $transaksi->harga = $paket->harga;
+        $transaksi->harga = str_replace('.', '', $paket->harga);
         $transaksi->discount = 0;
         $transaksi->status = 'pending';
         $transaksi->gambar = $namaFile;

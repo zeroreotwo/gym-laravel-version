@@ -45,15 +45,14 @@
       <div class="row">
         <div class="col-lg-8 col-md-8">
           <ul class="info">
-            <li><i class="fa fa-envelope"></i> info@gym.com</li>
-            <li><i class="fa fa-map"></i> Kuningan, Pasar Baru 33160</li>
+            <li><i class="fa fa-envelope"></i> info@gymwariors.com</li>
+            <li><i class="fa fa-map"></i> Kuningan, kab.kuningan</li>
           </ul>
         </div>
         <div class="col-lg-4 col-md-4">
           <ul class="social-links">
             <li><a href="#"><i class="fab fa-facebook"></i></a></li>
             <li><a href="" target="_blank"><i class="fab fa-twitter"></i></a></li>
-            <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
             <li><a href="#"><i class="fab fa-instagram"></i></a></li>
           </ul>
         </div>
@@ -69,8 +68,7 @@
           <nav class="main-nav">
             <!-- ***** Logo Start ***** -->
             <a href="#index" class="logo">
-              <h1>GYMW</h1>
-            </a>
+              <h1 style="white-space: nowrap;">GYM WARIORS</h1></a>
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->
             <ul class="nav">
@@ -117,19 +115,19 @@
     <div class="owl-carousel owl-banner">
       <div class="item item-1">
         <div class="header-text">
-          <span class="category">Kuningan, <em>Pasar Baru</em></span>
-          <h2>Ayo!<br>Olah Tubuhmu!</h2>
+          <span class="category">Kuningan, <em>kab.kuningan</em></span>
+          <h2>Ayo!<br>Latih Tubuhmu!</h2>
         </div>
       </div>
       <div class="item item-2">
         <div class="header-text">
-          <span class="category">Kuningan, <em>Pasar Baru</em></span>
+          <span class="category">Kuningan, <em>kab.kuningan</em></span>
           <h2>Semangat!<br>Berubah menjadi lebih baik</h2>
         </div>
       </div>
       <div class="item item-3">
         <div class="header-text">
-          <span class="category">Kuningan, <em>Pasar Baru</em></span>
+          <span class="category">Kuningan, <em>kab.kuningan</em></span>
           <h2>Jadi member sekarang!<br>Dapatkan banyak keuntungan</h2>
         </div>
       </div>
@@ -159,8 +157,7 @@
               </h2>
               <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor similique esse consectetur, minima architecto odit aspernatur excepturi amet, natus ullam in eligendi placeat voluptas cum atque dolorem suscipit ab corporis!
-
+                   Capai body goals Anda lebih cepat dan menyenangkan bersama partner latihan! Paket Sharing dirancang khusus untuk Anda yang ingin mendaftar bersama teman, pasangan, atau keluarga. Dapatkan akses penuh ke seluruh fasilitas Gym Warriors dengan harga patungan yang jauh lebih hemat dibandingkan paket reguler
                 </div>
               </div>
             </div>
@@ -235,7 +232,7 @@
         <div class="col-lg-10 offset-lg-1">
           <div class="video-frame">
             <img src="assets/images/cc.jpg" alt="">
-            <a href="https://youtube.com" target="_blank"><i class="fa fa-play"></i></a>
+            <a href="https://youtu.be/2qWR_b1HE18?si=fl7RnNM6obd3qZfj" target="_blank"><i class="fa fa-play"></i></a>
           </div>
         </div>
       </div>
@@ -256,13 +253,13 @@
               </div>
               <div class="col-lg-4">
                 <div class="counter">
-                  <h2 class="timer count-title count-number" data-to="5" data-speed="1000"></h2>
+                  <h2 class="timer count-title count-number" data-to="7" data-speed="1000"></h2>
                   <p class="count-text ">Tahun<br>Pengalaman</p>
                 </div>
               </div>
               <div class="col-lg-4">
                 <div class="counter">
-                  <h2 class="timer count-title count-number" data-to="18" data-speed="1000"></h2>
+                  <h2 class="timer count-title count-number" data-to="16" data-speed="1000"></h2>
                   <p class="count-text ">Jam<br>Buka</p>
                 </div>
               </div>
@@ -326,7 +323,7 @@
       <div class="row">
         <div class="col-lg-7">
           <div id="map">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11199.833496517465!2d108.28886376674635!3d-7.039916887915189!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6f39005de67065%3A0x1d7a51b9dc9b8409!2sBukit%20BADAFI!5e0!3m2!1sid!2sid!4v1780488920214!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.21553528043!2d108.47381477475767!3d-6.983871593017028!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6f152a78db0af7%3A0xb27f19ea6639f7b1!2sWarriors%20Gym!5e0!3m2!1sid!2sid!4v1780504642175!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
           </div>
           <div class="row">
             <div class="col-lg-6">

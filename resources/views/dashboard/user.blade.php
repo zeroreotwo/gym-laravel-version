@@ -141,11 +141,11 @@
             <!-- Top Navbar -->
             <nav class="navbar">
                 <div class="page-header">
-                    <h1 class="page-title">Users</h1>
+                    <h1 class="page-title">Member</h1>
                     <div class="page-breadcrumb">
                         <a href="{{ url('/dashboard') }}">Dashboard</a>
                         <span>/</span>
-                        <span>Users</span>
+                        <span>Member</span>
                     </div>
                 </div>
                 <div class="navbar-right">
@@ -165,7 +165,7 @@
                 <div class="glass-card glass-card-3d stat-card">
                     <div class="stat-card-inner">
                         <div class="stat-info">
-                            <h3>Total Users</h3>
+                            <h3>Total Member</h3>
                             <div class="stat-value">{{ number_format($totalUsers) }}</div>
 
                         </div>
@@ -183,7 +183,7 @@
                 <div class="glass-card glass-card-3d stat-card">
                     <div class="stat-card-inner">
                         <div class="stat-info">
-                            <h3>Active User</h3>
+                            <h3>Member Active</h3>
                             <div class="stat-value">{{ number_format($activeUsers) }}</div>
 
                         </div>

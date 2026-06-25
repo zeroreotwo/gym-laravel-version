@@ -79,7 +79,7 @@ Route::middleware(['auth', 'checkRole:1'])->group(function () {
 
 // ==========================================
 // Semua rute di dalam grup ini wajib login (auth) DAN memiliki role 3 (Member)
-Route::middleware(['auth', 'checkRole:1'])->prefix('member')->group(function () {
+Route::middleware(['auth', 'checkRole:3'])->prefix('member')->group(function () {
 
     // Halaman utama dashboard member
     Route::get('/dashboard', [MemberController::class, 'index']);

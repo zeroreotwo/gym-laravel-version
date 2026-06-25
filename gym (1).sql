@@ -58,7 +58,7 @@ CREATE TABLE `featured` (
   `keuntungan` text NOT NULL,
   `about` text NOT NULL,
   `gambar` text NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 -- --------------------------------------------------------
 
